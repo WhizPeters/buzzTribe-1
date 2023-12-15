@@ -1,0 +1,286 @@
+.movie-preference-modal-child,
+.scroll-bar-icon {
+  position: absolute;
+  top: 41.5px;
+  left: 262.93px;
+  width: 931.57px;
+  height: 790.5px;
+  object-fit: cover;
+}
+.scroll-bar-icon {
+  top: 0;
+  left: 799.29px;
+  border-radius: 0 19.49px 23.39px 0;
+  width: 18.34px;
+  height: 638.08px;
+  overflow: hidden;
+}
+.div {
+  position: absolute;
+  top: 7.71px;
+  left: 11.86px;
+  line-height: 120%;
+}
+.wrapper {
+  position: relative;
+  border-radius: 59.32px;
+  background-color: var(--primary-color-800);
+  width: 27.88px;
+  height: 27.88px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: var(--black-100);
+}
+.div1 {
+  position: absolute;
+  top: 7.71px;
+  left: 10.68px;
+  line-height: 120%;
+}
+.container {
+  position: relative;
+  border-radius: 59.32px;
+  background-color: var(--black-100);
+  width: 27.88px;
+  height: 27.88px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.div2 {
+  position: absolute;
+  top: 7.71px;
+  left: 11.27px;
+  line-height: 120%;
+}
+.frame {
+  position: relative;
+  border-radius: 59.32px;
+  background-color: var(--black-100);
+  width: 28.47px;
+  height: 28.47px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-container {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17.8px;
+}
+.pick-at-least,
+.what-movie-genre {
+  position: relative;
+  line-height: 120%;
+}
+.what-movie-genre {
+  font-weight: 500;
+}
+.pick-at-least {
+  font-size: var(--h1-regular8-size);
+  text-align: left;
+}
+.what-movie-genre-do-you-want-t-parent {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7.8px;
+}
+.youtube-shorts-1 {
+  position: absolute;
+  height: 603.16%;
+  width: 436.96%;
+  top: 0;
+  right: -336.96%;
+  bottom: -503.16%;
+  left: 0;
+  border-radius: var(--br-11xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.stickers-dcoratifs-musicaux-m {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 23.39px;
+  width: 168.43px;
+  height: 92.02px;
+  display: none;
+}
+.genre {
+  position: relative;
+  line-height: 120%;
+}
+.genre-wrapper,
+.stickers-dcoratifs-musicaux-m-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  width: 168.43px;
+  height: 92.02px;
+}
+.genre-wrapper {
+  border-radius: 23.39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 7.797903060913086px;
+}
+.stickers-dcoratifs-musicaux-m-parent {
+  border-radius: var(--br-smi-8);
+  border: 0.5px solid var(--black-100);
+}
+.stickers-dcoratifs-musicaux-m-container,
+.stickers-dcoratifs-musicaux-m-group,
+.stickers-dcoratifs-musicaux-m-parent1,
+.stickers-dcoratifs-musicaux-m-parent2 {
+  position: absolute;
+  top: 0.33px;
+  left: 180.09px;
+  border-radius: var(--br-smi-8);
+  border: 0.5px solid var(--black-100);
+  box-sizing: border-box;
+  width: 168.43px;
+  height: 92.02px;
+}
+.stickers-dcoratifs-musicaux-m-container,
+.stickers-dcoratifs-musicaux-m-parent1,
+.stickers-dcoratifs-musicaux-m-parent2 {
+  top: 0;
+  left: 360.04px;
+}
+.stickers-dcoratifs-musicaux-m-parent1,
+.stickers-dcoratifs-musicaux-m-parent2 {
+  top: 103.6px;
+  left: 0;
+}
+.stickers-dcoratifs-musicaux-m-parent2 {
+  left: 180.02px;
+}
+.stickers-dcoratifs-musicaux-m-parent3,
+.stickers-dcoratifs-musicaux-m-parent4,
+.stickers-dcoratifs-musicaux-m-parent5,
+.stickers-dcoratifs-musicaux-m-parent6 {
+  position: absolute;
+  top: 103.62px;
+  left: 360.6px;
+  border-radius: var(--br-smi-8);
+  border: 0.5px solid var(--black-100);
+  box-sizing: border-box;
+  width: 168.43px;
+  height: 92.02px;
+}
+.stickers-dcoratifs-musicaux-m-parent4,
+.stickers-dcoratifs-musicaux-m-parent5,
+.stickers-dcoratifs-musicaux-m-parent6 {
+  top: 207.2px;
+  left: 0;
+}
+.stickers-dcoratifs-musicaux-m-parent5,
+.stickers-dcoratifs-musicaux-m-parent6 {
+  left: 180.02px;
+}
+.stickers-dcoratifs-musicaux-m-parent6 {
+  left: 360.04px;
+}
+.instance-parent {
+  position: relative;
+  width: 528.7px;
+  height: 327.5px;
+  flex-shrink: 0;
+  text-align: left;
+}
+.frame-div,
+.frame-group {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame-div {
+  height: 429.66px;
+  justify-content: flex-start;
+  gap: 47.57px;
+  text-align: center;
+  font-size: var(--h1-medium7-size);
+  color: var(--black-100);
+}
+.frame-group {
+  height: 471.95px;
+  justify-content: center;
+  gap: 13.51px;
+}
+.skip {
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+}
+.button {
+  border-radius: 23.39px;
+  background-color: var(--primary-color-800);
+  width: 180.52px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12.476644515991211px 24.953289031982422px;
+  box-sizing: border-box;
+  font-size: var(--h1-regular8-size);
+}
+.frame-parent,
+.skip-parent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.skip-parent {
+  flex-shrink: 0;
+  flex-direction: row;
+  gap: 302.15px;
+  font-size: 21.55px;
+  color: var(--color-white);
+}
+.frame-parent {
+  position: absolute;
+  top: 49px;
+  left: 144px;
+  flex-direction: column;
+  gap: 26.06px;
+}
+.vuesaxlineararrow-left-icon {
+  position: absolute;
+  top: 59px;
+  left: 70px;
+  width: 37.65px;
+  height: 37.65px;
+  object-fit: cover;
+}
+.scroll-bar-parent {
+  position: absolute;
+  top: 67px;
+  left: 311px;
+  border-radius: 28.96px;
+  box-shadow: 0 10.618583679199219px 77.23px 7.72px rgba(0, 0, 0, 0.25);
+  width: 818px;
+  height: 637.87px;
+  overflow: hidden;
+}
+.movie-preference-modal {
+  position: relative;
+  background-color: var(--black-800);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 10.68px;
+  color: var(--black-full);
+  font-family: var(--h1-regular8);
+}
