@@ -1,0 +1,448 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(0, 0%, 7%);
+    max-width: 1343px;
+}
+
+.navbar {
+    width: 253px;
+    height: 2075px;
+    background: #020E1D;
+    display: inline-block;
+}
+
+.logo {
+    width: 133px;
+    height: 47.99px;
+    padding-top: 70px;
+    padding-left: 61px;
+
+}
+.navbar p {
+    color: #6E737F;
+
+}
+
+.nav {
+    width: 194px;
+    height: 786px;
+    margin-top: 223px;
+    margin-left: 30px;
+    gap: 70px;
+
+}
+.nav li {
+    display: flex;
+    width: 125px;
+    height: 29px;
+    padding: 0px, 1px, 0px, 1px;
+    gap: 27px;
+    margin-bottom: 40px;
+}
+
+/* Search Section */
+
+.searchcontainer {
+    width: 1090px;
+    height: 156px;
+    /* margin-left: 256px; */
+    gap: 4px;
+    background-color: hsla(0, 0%, 85%, 0.7);
+    display: inline-block;
+
+}
+
+.parentdiv {
+    display: flex;
+}
+
+.search input {
+    width: 545px;
+    height: 56px;
+    padding: 16px, 24px, 16px, 24p;
+    border-radius: 10px;
+    border: 1px;
+    gap: 10px;
+    margin-top: 50px;
+    margin-left: 300px;
+    position: absolute;
+
+}
+
+.search img {
+    position: relative;
+    left: 350px;
+    top: 67px;
+    z-index: 1;
+}
+
+::placeholder{
+    padding-left: 100px;
+}
+
+.bell {
+    position: absolut;
+    left: px;
+    bottom: -7rem;
+    
+}
+
+.new-release {
+    display: flex;
+    height: 479px;
+    background-color: hsla(0, 0%, 100%, 1);
+}
+
+h3 {
+    padding-top: 70px;
+    padding-left: 50px;
+    color: hsla(214, 85%, 45%, 1);
+    ;
+}
+
+h2 {
+    padding-top: 70px;
+    padding-left: 50px;
+
+}
+
+.new-release p {
+    padding-top: 70px;
+    padding-left: 50px;
+
+}
+
+h4 {
+    padding-top: 40px;
+    padding-left: 50px;
+
+}
+
+.divbutton {
+    padding-top: 50px;
+    padding-left: 50px;
+
+}
+
+.divbutton span {
+    color: hsla(214, 85%, 45%, 1);
+}
+
+button {
+    background-color: hsla(214, 85%, 45%, 1);
+    color: white;
+    margin-right: 10px;
+    height: 20px;
+    width: 70px;
+    border-radius: 5px;
+    border: none;
+}
+
+.new-release-left {
+    width: 42%;
+}
+
+
+.new-release-right img {
+    margin-top: 170px;
+    margin-left: 300px;
+}
+
+.play {
+    width: 1090px;
+    height: 144px;
+    background-color: hsla(0, 0%, 0%, 1);
+    border: 2px;
+
+}
+
+.play {
+    display: flex;
+    color: hsla(0, 0%, 100%, 1);
+    padding-top: 50px;
+    padding-left: 30px;
+    justify-content: space-between;
+    padding-right: 30px;
+
+}
+
+.play img {
+    color: hsla(0, 0%, 100%, 1);
+}
+
+.person img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+
+.my-playlist h2 {
+    display: inline-block;
+    padding-left: 30px;
+    margin-right: 850px;
+    color: hsla(214, 84%, 72%, 1);
+    margin-bottom: 20px;
+
+ }
+
+ .my-playlist span {
+    color: hsla(0, 0%, 100%, 1);
+    font-size: larger;
+
+ }
+
+ .playlists img {
+    display: flex;
+ }
+
+ .holy-ghost {
+    display: flex;  
+ }
+
+ .image img {
+    width: 50px;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 60px;
+
+ }
+
+
+ .listname {
+    margin-top: 35px;
+    margin-right: 120px;
+    color: hsla(0, 0%, 100%, 1);
+ }
+
+
+ .artistname {
+    margin-top: 35px;
+    margin-right: 120px;
+    color: hsla(0, 0%, 100%, 1);
+ }
+
+.playfig img {
+    height: 20px;
+    width: 20px;
+    margin-top: 35px;
+    margin-right: 150px;
+    color: hsla(0, 0%, 100%, 1);
+}
+
+.time {
+    margin-top: 35px;
+    margin-right: 120px;
+    color: hsla(0, 0%, 100%, 1);
+}
+
+.more img {
+    height: 20px;
+    width: 20px;
+    margin-top: 35px;
+    margin-right: 120px;
+    color: hsla(0, 0%, 100%, 1);
+}
+
+.city-boys {
+    display: flex;
+}
+
+.lonely-at-the-top {
+    display: flex;
+}
+
+.feel {
+    display: flex;
+}
+
+.reason {
+    display: flex;
+}
+
+.twoface {
+    display: flex;
+}
+
+.city-boys .listname {
+    margin-right: 130px;
+}
+
+.lonely-at-the-top .listname {
+    margin-right: 87px;
+}
+
+.lonely-at-the-top .artistname {
+    margin-right: 144px;
+}
+
+.feel .listname {
+    margin-right: 170px;
+}
+
+.feel .artistname {
+    margin-right: 136px;
+}
+
+.reason .listname {
+    margin-right: 150px;
+}
+
+.twoface .listname {
+    margin-right: 170px;
+}
+
+.twoface .artistname {
+    margin-right: 147px;
+}
+
+.trend {
+    display: flex;
+    margin-left: 30px;
+}
+
+.trend img {
+    width: 191px;
+    height: 283px;
+    border-radius: 8px;
+    margin-right: 20px;
+    opacity: 0.5;
+
+}
+
+.iconplay {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: hsla(0, 0%, 100%, 1);
+    position: relative;
+    bottom: 160px;
+    left: 80px;
+    
+}
+.iconplay img {
+    height: 24px;
+    width: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+    opacity: 1;
+}
+
+.now h2 {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-left: 30px;
+    color: hsla(214, 84%, 72%, 1);
+}
+
+.topartistone {
+    display: flex;
+    width: 100%;
+    margin-left: 30px;
+    
+}
+
+.topartistone img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: none;
+    margin-right: 10px;
+}
+.topartisttwo {
+    display: flex;
+}
+
+.topartisttwo img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: none;
+    margin-right: 10px;
+}
+
+.hip {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 50px;
+    color: hsla(0, 0%, 100%, 1);
+    gap: 40px;
+    font-size: larger;
+}
+
+.hip button {
+    height: 25px;
+    width: 70px;
+    border-radius: 10px;
+    border: none;
+    background-color: hsla(0, 0%, 100%, 1);
+    color: hsla(214, 84%, 72%, 1);
+}
+
+.playvideos {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 60px;
+
+}
+
+.playvideos img {
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+    border: 1px;
+    margin-right: 20px;
+    opacity: 0.5;
+
+}
+
+.iconvidplay {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: hsla(0, 0%, 100%, 1);
+    position: relative;
+    bottom: 60px;
+    left: 27px;
+}
+
+.iconvidplay img {
+    height: 24px;
+    width: 24px;
+    margin-top: 3px;
+    margin-left: 3px;
+    opacity: 1; 
+}
+
+footer {
+    width: 1330px;
+    height: 305px;
+    background-color: #020E1D;
+
+}
+.buzz {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 300px;
+    padding-top: 60px;
+    color: hsla(0, 0%, 100%, 1);
+}
+
+ul {
+    list-style: none;
+}
+li {
+    margin-bottom: 20px;
+}
+
+footer li:first-child {
+    font-size: larger;
+}
